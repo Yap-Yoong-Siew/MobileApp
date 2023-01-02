@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_order">Order</string>
+    <string name="title_record">Record</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="title_profile">Profile</string>
+    <string name="backProfile"></string>
+    <string name="prompt_email">prompt email</string>
+    <string name="prompt_password">prompt_password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_created_order">createdOrder</string>
+    <string name="title_worker_order">worker_order</string>
+    <string name="title_found_partner">Order</string>
+</resources>

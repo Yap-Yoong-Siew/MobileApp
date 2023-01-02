@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:padding="15dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/orderId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="OrderId"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:textColor="@color/darkGrey"
+        android:textSize="25sp"
+        />
+    <TextView
+        android:id="@+id/cellOrderType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="type"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:textColor="@color/darkGrey"
+        android:textSize="25sp"
+        />
+    <TextView
+        android:id="@+id/cellOrderTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="title"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:textColor="@color/darkGrey"
+        android:textSize="25sp"
+        />
+    <TextView
+        android:id="@+id/cellOrderPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="price"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:textColor="@color/darkGrey"
+        android:textSize="25sp"
+        />
+    <TextView
+        android:id="@+id/cellOrderDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Date"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:textColor="@color/darkGrey"
+        android:textSize="25sp"
+        />
+
+
+    <TextView
+        android:id="@+id/cellOrderDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Description"
+        android:layout_marginTop="5dp"
+        android:maxLines="1"
+        android:textColor="@color/darkGrey"
+        android:textSize="20sp"
+        />
+
+</LinearLayout>
