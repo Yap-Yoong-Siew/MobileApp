@@ -29,7 +29,7 @@ public class LoginPage extends AppCompatActivity {
         setContentView(R.layout.activity_login_page);
         initWidgets();
     }
-
+// more github comment
     private void initWidgets() {
         emailText = findViewById(R.id.editEmail);
         passwordText = findViewById(R.id.editPassword);
