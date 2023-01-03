@@ -27,3 +27,4 @@ public class MainLobby extends AppCompatActivity {
         startActivity(Register);
     }
 }
+//make changes halfway
