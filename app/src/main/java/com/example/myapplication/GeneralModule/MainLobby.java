@@ -14,7 +14,7 @@ public class MainLobby extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main_lobby);
     }
-
+// github comment
     public void Login(View view) {
         Intent Login = new Intent(this, LoginPage.class);
         finish();
