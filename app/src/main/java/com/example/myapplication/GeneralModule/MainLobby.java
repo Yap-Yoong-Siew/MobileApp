@@ -20,7 +20,7 @@ public class MainLobby extends AppCompatActivity {
         finish();
         startActivity(Login);
     }
-
+// github comment from my another pc
     public void Register(View view) {
         Intent Register = new Intent(this, MainLobbyRegistration.class);
         finish();
