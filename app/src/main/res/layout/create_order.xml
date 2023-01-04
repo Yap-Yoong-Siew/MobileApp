@@ -116,7 +116,7 @@
         android:padding="5dp"
         android:layout_gravity="start"
         android:layout_margin="20dp"
-        android:backgroundTint="@color/gr"
+        android:backgroundTint="@color/skin"
         android:text="JAN 01 2023"
         android:textColor="@color/black"
         android:textSize="20sp"
@@ -198,11 +198,11 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="5dp"
-        android:background="@drawable/each_button"
-        android:backgroundTint="@color/white"
+        android:backgroundTint="@color/skin"
+        android:backgroundTintMode="add"
         android:onClick="Publish"
         android:text="Publish"
-        android:textColor="@color/darkGrey"
+        android:textColor="@color/black"
         android:textSize="20sp"
         android:textStyle="bold" />
 
